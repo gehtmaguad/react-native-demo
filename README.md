@@ -220,7 +220,7 @@ export default class App extends React.Component {
 * Add dependencies
 
   ```
-  yarn add mobx mobx-react
+  yarn add mobx@4.3.1 mobx-react
   ```
 
 * Set experimentalDecorators to true in tsconfig.json
